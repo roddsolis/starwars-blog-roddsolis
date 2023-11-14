@@ -1,3 +1,13 @@
 /* 
     General Styles
 */
+* {
+  background-color: black;
+}
+ul,
+li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+}
